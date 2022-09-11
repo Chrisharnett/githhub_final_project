@@ -1,5 +1,5 @@
 # githhub_final_project
- Intro to Git and GitHub Week 3 final Project on Coursera
+ Intro to Git and GitHub Week 3 final project on Coursera. Part of the IBM Full Stack Developer Program.
 
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
